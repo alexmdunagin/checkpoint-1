@@ -1,13 +1,14 @@
-/* body {
+body {
     background-image: url("../img/migas_wordpress.jpg");
-    height: 72px; */
-    /* background-position: center; */
-    /* background-repeat: no-repeat;
-    background-size: cover;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
     margin: 0px;
+    background-color: #C2DEF4;
     font-family: 'Times New Roman', Times, serif;
     color: white;
-} */
+}
 
 div {
     margin-top: 0px;
@@ -17,6 +18,11 @@ div {
     color: black;
 }
 
-.menu {
-    align-content: center;
+.topnav {
+    background-color: black;
+    color: white;
+    margin-top: 100px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
 }
