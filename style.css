@@ -9,11 +9,14 @@
     color: white;
 } */
 
-ul {
-    display: block;
-    width: 60px;
-    margin: 0;
-    padding: 0;
+div {
+    margin-top: 0px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    margin-left: 750px;
     color: black;
 }
 
+.menu {
+    align-content: center;
+}
