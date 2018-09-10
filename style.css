@@ -29,11 +29,11 @@ p {
 }
 
 .juices {
-    position: left;
+    padding-right: 750px;
 }
 
 .food {
-    position: right;
+    padding-left: 750px;
 }
 
 .menu {
