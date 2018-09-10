@@ -2,7 +2,7 @@ body {
     background-image: url("./migas_wordpress.jpg");
     height: 100%;
     width: 100%;
-    background-position: contain;
+    background-position: auto;
     background-repeat: no-repeat;
     background-size: auto;
     margin: 0px;
@@ -29,11 +29,17 @@ p {
 }
 
 .juices {
-    padding-right: 750px;
+    padding-right: 900px;
+}
+
+.text {
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
 }
 
 .food {
-    padding-left: 750px;
+    padding-left: 900px;
 }
 
 .menu {
