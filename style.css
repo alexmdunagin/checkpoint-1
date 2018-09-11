@@ -8,6 +8,8 @@ body {
     font-family: 'Times New Roman', Times, serif;
     color: blue;
     text-align: center;
+    margin: 0;
+    padding: 0;
 }
 
 p {
@@ -22,7 +24,7 @@ p {
 }
 
 .juices {
-    padding-right: 900px;
+    padding-right: 850px;
 }
 
 .text {
@@ -32,7 +34,7 @@ p {
 }
 
 .food {
-    padding-left: 900px;
+    padding-left: 850px;
 }
 
 .menu {
